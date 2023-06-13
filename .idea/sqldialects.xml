@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/com/ams/gui/TeacherFrame.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/AddCourse.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/AlterPass.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/CheckGrade.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/DeleteCourse.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/DeletePeople.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/EnterGrade.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/FindCourse.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/FindPeople.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/com/ams/mysql/LoginPeople.java" dialect="GenericSQL" />
+  </component>
+</project>
